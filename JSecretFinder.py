@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# SecretFinder - Tool for discover apikeys/accesstokens and sensitive data in js file
+# JSecretFinder - Tool for discovering API keys & access tokens and sensitive data in js file
 # based to LinkFinder 
 # (0xF4HAD) github.com/0xF4HAD
 
